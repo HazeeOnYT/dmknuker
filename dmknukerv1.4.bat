@@ -16,7 +16,7 @@ client = discord.Client(intents=intents)
 cool = pystyle.Colors.red_to_yellow
 
 # Config
-token = "MTI0MzcxNTM2NjczMTkxMTI1OA.GWi8pK.SMWarL565cwIkYx375wKVVWy7FcDzSslaO1a0o"
+token = input("
 guild_id = 1243991925619556412
 nuke_message = "@everyone NUKED BY DMK https://discord.gg/X8PvAhDD"
 channel_name = "nuked-by-dmk"
