@@ -1,3 +1,3 @@
 echo Starting DMK Nuker...
-python main.py
+python dmktook.py
 
