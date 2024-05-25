@@ -16,8 +16,8 @@ client = discord.Client(intents=intents)
 cool = pystyle.Colors.red_to_yellow
 
 # Config
-token = input("
-guild_id = 1243991925619556412
+token = input("Bot Token: ")
+guild_id = input("Server ID: ")
 nuke_message = "@everyone NUKED BY DMK https://discord.gg/X8PvAhDD"
 channel_name = "nuked-by-dmk"
 webhook_name = "nuked-by-dmk"
